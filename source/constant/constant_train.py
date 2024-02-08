@@ -9,6 +9,7 @@ FILE_NAME = 'training_data.csv'
 TRAIN_FILE_NAME = 'train.csv'
 TEST_FILE_NAME = 'test.csv'
 
+# MONGODB_URL_KEY = "mongodb+srv://dataencite:sachinbidwai1982@sachinbidwai.cppzdnv.mongodb.net/?retryWrites=true&w=majority"
 MONGODB_URL_KEY = "MONGODB_KEY"
 DATABASE_NAME = 'db-customer-churn'
 
